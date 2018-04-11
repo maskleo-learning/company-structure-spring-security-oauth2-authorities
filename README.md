@@ -38,3 +38,8 @@ curl -X GET \
   http://localhost:8080/secured/company/ \
   -H 'authorization: Bearer e6631caa-bcf9-433c-8e54-3511fa55816d'
 ```
+
+
+
+
+- https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
